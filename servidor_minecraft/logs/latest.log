@@ -639,3 +639,14 @@ You can disable this alert in config path:
 [23:48:41] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
 [23:48:41] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
 [23:48:41] [Server thread/INFO]: Admin loviroxget left the game
+[23:55:16] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[23:55:17] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[23:55:18] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[23:55:19] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[23:55:20] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[23:55:21] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[23:55:22] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[23:55:23] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[23:55:24] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[23:55:25] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[23:55:26] [Server thread/INFO]: [AntiLag] > Removing...
