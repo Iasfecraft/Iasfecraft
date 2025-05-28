@@ -1,0 +1,17 @@
+args:
+  name:
+  - portal1
+  destination:
+  - world
+  triggerblock:
+  - WATER
+maxLoc:
+  posX: -10
+  posY: 63
+  posZ: 2
+  worldName: Spawn
+minLoc:
+  posX: -18
+  posY: 63
+  posZ: -2
+  worldName: Spawn

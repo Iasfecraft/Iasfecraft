@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747740227613
+  login: 1747739950112
+money: '0'
+last-account-name: .Lovirox
+logoutlocation:
+  world: 0e12611f-bf46-459e-ab18-7af1be7d2f54
+  world-name: Spawn
+  x: 0.5
+  y: 66.0
+  z: 0.5
+  yaw: -4.350000381469727
+  pitch: 90.0

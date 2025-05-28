@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.23.96.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1748134344842
+  login: 1748132839165
+money: '111.3'
+last-account-name: loviroxget
+logoutlocation:
+  world: 0e12611f-bf46-459e-ab18-7af1be7d2f54
+  world-name: Spawn
+  x: -22.58017071150855
+  y: 84.0
+  z: 4.182413597244559
+  yaw: -102.78369140625
+  pitch: 28.272003173828125
+lastlocation:
+  world: 012433e2-4855-4a94-8c67-9bcf37800197
+  world-name: world
+  x: -34.43973765793694
+  y: 151.0
+  z: -95.40623557709701
+  yaw: 93.75027465820312
+  pitch: 39.59995651245117

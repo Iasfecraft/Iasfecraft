@@ -1,0 +1,21 @@
+portals:
+  portal0:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: loviroxget
+    location: -2.0,63.0,10.0:1.0,63.0,17.0
+    world: Spawn
+    destination: w:world
+  portal1:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: loviroxget
+    location: -18.0,63.0,-2.0:-10.0,63.0,2.0
+    world: Spawn
+    destination: w:world
