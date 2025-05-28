@@ -621,3 +621,21 @@ You can disable this alert in config path:
 [23:38:44] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
 [23:38:45] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
 [23:38:46] [Server thread/INFO]: [AntiLag] > Removing...
+[23:46:56] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[23:46:57] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[23:46:58] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[23:46:59] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[23:47:00] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[23:47:01] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[23:47:02] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[23:47:03] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[23:47:04] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[23:47:05] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[23:47:06] [Server thread/INFO]: [AntiLag] > Removing...
+[23:48:41] [Server thread/INFO]: loviroxget lost connection: Disconnected
+[23:48:41] [Server thread/INFO]: [DiscordSRV] Player loviroxget quit with silent quitting permission, not sending a quit message
+[23:48:41] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Invalid Bot Token!
+[23:48:41] [Server thread/WARN]: Nag author(s): '[]' of 'Statusbot v20.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[23:48:41] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
+[23:48:41] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
+[23:48:41] [Server thread/INFO]: Admin loviroxget left the game
