@@ -6,7 +6,7 @@ ConfigVersion: 1.29.0
 
 # Bot token; don't know what this is? Look at the video on the plugin page for instructions
 # You must restart your server after changing this option
-BotToken: "MTM3MzgwMzczMzU5NDU0MjE5MQ.GyG7PY.2B3SbRXuL_wGuRwpIstT13iU2nDODXlRSpzmK4"
+BotToken: "MTM3MzgwMzczMzU5NDU0MjE5MQ.GRe1QS.a34Ua3SRF9c2xLJijsYPBYk4eWnXE_tKVvYBRc"
 
 # Channel links from game to Discord
 # syntax is Channels: {"in-game channel name from Minecraft": "numerical channel ID from Discord", "another in-game channel name from Minecraft": "another numerical channel ID from Discord"}
@@ -33,7 +33,7 @@ Channels: {"global": "1373797654332440726"}
 DiscordConsoleChannelId: "1373804964455125045"
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
-DiscordInviteLink: "https://discord.gg/changethisintheconfig.yml"
+DiscordInviteLink: "https://discord.gg/qFDuCXpN3d"
 
 # Experiments
 # These features are not fully optimized; use at your own risk

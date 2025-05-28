@@ -42,32 +42,24 @@ ServerName:
 web:
   change-interval: 200
   texts:
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&6w&eww.domain.com'
-  - '&ew&6w&ew.domain.com'
-  - '&eww&6w&e.domain.com'
-  - '&ewww&6.&edomain.com'
-  - '&ewww.&6d&eomain.com'
-  - '&ewww.d&6o&emain.com'
-  - '&ewww.do&6m&eain.com'
-  - '&ewww.dom&6a&ein.com'
-  - '&ewww.doma&6i&en.com'
-  - '&ewww.domai&6n&e.com'
-  - '&ewww.domain&6.&ecom'
-  - '&ewww.domain.&6c&eom'
-  - '&ewww.domain.c&6o&em'
-  - '&ewww.domain.co&6m'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
-  - '&ewww.domain.com'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&6Visitar&enuestro servidor de discord'
+  - '&eVisitar&6nuestro&eservidor de discord'
+  - '&eVisitar nuestro&6servidor&ede discord'
+  - '&eVisitar nuestro serivdor&6de&ediscord'
+  - '&eVisitar nuestro servidor &6de&ediscord'
+  - '&eVisitar nuestro servidor de&6discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
+  - '&eVisitar nuestro servidor de discord'
 vote:
   change-interval: 1000
   texts:
@@ -76,35 +68,36 @@ vote:
   - '&5vote.domain.com'
   - '&5&nvote.domain.com'
 Welcome:
-  change-interval: 400
+  change-interval: 350
   texts:
-  - '&7&lW_'
-  - '&7&lW_'
-  - '&7&lWe_'
-  - '&7&lWel_'
-  - '&7&lWelc_'
-  - '&7&lWelco_'
-  - '&7&lWelcom_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcome_'
-  - '&7&lWelcom_'
-  - '&7&lWelco_'
-  - '&7&lWelc_'
-  - '&7&lWel_'
-  - '&7&lWe_'
-  - '&7&lW_'
-  - '&7&lW_'
+  - '&7&lB_'
+  - '&7&lBi_'
+  - '&7&lBie_'
+  - '&7&lBien_'
+  - '&7&lBienv_'
+  - '&7&lBienve_'
+  - '&7&lBienven_'
+  - '&7&lBienveni_'
+  - '&7&lBienvenid_'
+  - '&7&lBienvenido_'
+  - '&7&lBienvenid_'
+  - '&7&lBienveni_' 
+  - '&7&lBienven_'
+  - '&7&lBienve_'
+  - '&7&lBienv_'
+  - '&7&lBien_'
+  - '&7&lBie_'
+  - '&7&lBi_'
+  - '&7&lB_'
 time:
   change-interval: 3000
   texts:
-    - '&7Time &b%time%'
-    - '&7Date &b%date%'
+    - '&7Hora &b%time%'
+    - '&7Fecha &b%date%'
 barcolors:
   change-interval: 1000
   texts:
     - RED
     - BLUE
     - GREEN
-    - YELLOW
+    - YELLOB
