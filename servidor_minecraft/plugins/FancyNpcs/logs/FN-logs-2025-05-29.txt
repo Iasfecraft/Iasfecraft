@@ -1,1 +1,2 @@
 {"loggerName":"FancyNpcs","logLevel":"INFO","message":"FancyNpcs (2.5.0.262) has been enabled.","timestamp":1748478325006,"threadID":40,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyNpcs","logLevel":"INFO","message":"FancyNpcs has been disabled.","timestamp":1748479715762,"threadID":40,"threadName":"Server thread","properties":{}}

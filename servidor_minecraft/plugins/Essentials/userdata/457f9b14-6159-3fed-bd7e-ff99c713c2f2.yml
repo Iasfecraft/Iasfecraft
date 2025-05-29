@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1748478423702
+  lastteleport: 1748479599587
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748479047457
+  logout: 1748479716968
   login: 1748479071807
 money: '0'
 last-account-name: loviroxget
 logoutlocation:
-  world: 9635650a-c2ea-4443-b833-0cd0309707f0
-  world-name: pvp
-  x: 1.984208094753242
-  y: 250.0
-  z: -24.02103905354922
-  yaw: -55.728759765625
-  pitch: 27.33257484436035
+  world: 0e12611f-bf46-459e-ab18-7af1be7d2f54
+  world-name: Spawn
+  x: 1.2717540405184384
+  y: 66.0
+  z: 2.3767052113977325
+  yaw: 33.90301513671875
+  pitch: 15.857566833496094
 lastlocation:
   world: 0e12611f-bf46-459e-ab18-7af1be7d2f54
   world-name: Spawn
-  x: -0.8510350432752218
+  x: 0.8078201980704708
   y: 66.0
-  z: 1.2996105662279889
-  yaw: -165.94602966308594
-  pitch: 7.78816032409668
+  z: 1.3274920745782608
+  yaw: -11.522842407226562
+  pitch: -2.350341320037842

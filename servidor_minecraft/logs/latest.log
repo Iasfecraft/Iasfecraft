@@ -779,3 +779,178 @@ You can disable this alert in config path:
 [00:43:29] [Server thread/INFO]: loviroxget issued server command: //hsphere glass 70
 [00:44:02] [Server thread/INFO]: loviroxget issued server command: //hsphere barrier 50
 [00:44:13] [Server thread/INFO]: loviroxget issued server command: //undo
+[00:44:57] [Server thread/INFO]: loviroxget issued server command: //up 1
+[00:45:00] [Server thread/INFO]: loviroxget issued server command: /up 1
+[00:45:20] [Server thread/INFO]: loviroxget issued server command: //cyl barrier 20
+[00:45:35] [Server thread/INFO]: loviroxget issued server command: /gamemode spectator
+[00:45:40] [Server thread/INFO]: loviroxget issued server command: /gamemode creative
+[00:46:19] [Server thread/INFO]: loviroxget issued server command: /warp pvp
+[00:46:29] [Server thread/INFO]: loviroxget issued server command: /createwarp pvp
+[00:46:34] [Server thread/INFO]: loviroxget issued server command: /spawn
+[00:46:39] [Server thread/INFO]: loviroxget issued server command: /warp pvp
+[00:46:46] [Server thread/INFO]: loviroxget issued server command: /spawn
+[00:46:59] [Server thread/INFO]: loviroxget issued server command: /quest
+[00:47:01] [Server thread/INFO]: loviroxget issued server command: /quests
+[00:48:35] [Server thread/INFO]: loviroxget issued server command: /stop
+[00:48:35] [Server thread/INFO]: [Admin loviroxget: Stopping the server]
+[00:48:35] [Server thread/INFO]: Stopping server
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Disabling QuickShop-Hikari v6.2.0.9-RELEASE-1
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari/Bootstrap] QuickShop-Hikari - Bootstrap -> Execute the shutdown sequence
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] QuickShop is finishing remaining work, this may need a while...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Shutting down error reporter...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Unloading all loaded shops...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Stopping shop auto save...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Saving all in-memory changed shops...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Cleaning up shop manager...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Unloading loaded shops...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Saving shops, please allow up to 30 seconds for flush changes into database...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Cleaning up display manager...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Stopping log watcher...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Shutting down scheduled timers...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Shutting down event calendar watcher...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Shutting down update watcher...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Shutting down 3rd-party integrations...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari] Shutting down database connections...
+[00:48:35] [Server thread/INFO]: [cc.carm.lib.easysql.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[00:48:35] [Server thread/INFO]: [cc.carm.lib.easysql.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari/Bootstrap] Cleaning up resources...
+[00:48:35] [Server thread/INFO]: [QuickShop-Hikari/Bootstrap] QuickShop-Hikari - Bootstrap -> All Complete (27ms)
+[00:48:35] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.12.2
+[00:48:35] [Server thread/INFO]: [Tpa] Disabling Tpa v0.3
+[00:48:35] [Server thread/INFO]: [FancyNpcs] Disabling FancyNpcs v2.5.0.262
+[00:48:35] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs has been disabled.
+[00:48:35] [Server thread/INFO]: [UberEnchant] Disabling UberEnchant v8.11.7
+[00:48:35] [Server thread/INFO]: [InvSee++] Disabling InvSeePlusPlus v0.29.20
+[00:48:35] [Server thread/INFO]: [Simple_RTP] Disabling Simple_RTP v1.0.2-BETA
+[00:48:35] [Server thread/INFO]: [Simple_RTP] Plugin has been disabled!
+[00:48:35] [Server thread/INFO]: [nametags] Disabling nametags v1.2.1-stable
+[00:48:35] [Server thread/INFO]: [nametags] NameTagPlugin has been disabled.
+[00:48:35] [Server thread/INFO]: [Multiverse-NetherPortals] Disabling Multiverse-NetherPortals v5.0.0-pre.5
+[00:48:35] [Server thread/INFO]: [Multiverse-NetherPortals] - Disabled
+[00:48:35] [Server thread/INFO]: [AntiLag] Disabling AntiLag v2.0
+[00:48:35] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.36
+[00:48:35] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.4
+[00:48:35] [Server thread/INFO]: [emotecraft] Disabling emotecraft v2.5.7
+[00:48:35] [Server thread/INFO]: [Vanish] Disabling Vanish v0.1
+[00:48:35] [Server thread/INFO]: [Quests] Disabling Quests v5.2.3-b537
+[00:48:35] [Server thread/INFO]: [Quests] Saving Quester data...
+[00:48:35] [Server thread/INFO]: [Quests] Closing storage...
+[00:48:35] [Server thread/INFO]: [ImageFrame] Disabling ImageFrame v1.8.2.0
+[00:48:35] [Server thread/INFO]: [ImageFrame] ImageFrame has been Disabled!
+[00:48:35] [Server thread/INFO]: [Statusbot] Disabling Statusbot v20.0
+[00:48:35] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Successfully wrote registered channels to a data file
+[00:48:35] [Server thread/WARN]: Nag author(s): '[]' of 'Statusbot v20.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[00:48:35] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Successfully wrote registered channels to a data file
+[00:48:35] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Successfully wrote sent embeds to a data file
+[00:48:36] [Server thread/INFO]: [Tool-Trims] Disabling Tool-Trims v1.2
+[00:48:36] [Server thread/INFO]: [FancySetSpawn] Disabling FancySetSpawn v1.2
+[00:48:36] [Server thread/INFO]: [SetHome] Disabling SetHome v2.0
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] Disabling LagFixer v1.4.10 (build 105)
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ErrorsManager) -> Disabled manager in 0ms!
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (SupportManager) -> Disabled manager in 0ms!
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ConfigManager) -> Disabled manager in 0ms!
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (HookManager) -> Disabled manager in 0ms!
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (MetricsManager) -> Disabled manager in 0ms!
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (UpdaterManager) -> Disabled manager in 0ms!
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module WorldCleaner in 1ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module LagMonitor in 0ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module VehicleMotionReducer in 0ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module MobAiReducer in 0ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module InstantLeafDecay in 0ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module EntityLimiter in 1ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module RedstoneLimiter in 0ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m]  • Successfully disabled module AbilityLimiter in 0ms.
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (ModuleManager) -> Disabled manager in 2ms!
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabling manager...
+[00:48:36] [Server thread/INFO]: [[38;5;11m⚡[0m] (CommandManager) -> Disabled manager in 0ms!
+[00:48:36] [Server thread/INFO]: [ChatManager] Disabling ChatManager v4.0.3
+[00:48:36] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.29.0
+[00:48:36] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 137ms
+[00:48:36] [Server thread/INFO]: [CrazyEnchantments] Disabling CrazyEnchantments v2.5.2
+[00:48:36] [Server thread/INFO]: [Streamotes] Disabling Streamotes v1.2.9
+[00:48:36] [Server thread/INFO]: [BuildPaste] Disabling BuildPaste v1.11.1
+[00:48:36] [Server thread/INFO]: [GeyserExtras] Disabling GeyserExtras v2.0.0
+[00:48:36] [Server thread/INFO]: [TAB] Disabling TAB v5.2.0
+[00:48:36] [Server thread/INFO]: [TAB] Disabled in 1ms
+[00:48:36] [Server thread/INFO]: [packetevents] Disabling packetevents v2.8.0
+[00:48:36] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v5.0.0-pre.4
+[00:48:36] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[00:48:36] [Server thread/INFO]: [StackMob] Disabling StackMob v5.9.2
+[00:48:36] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.0-SNAPSHOT
+[00:48:36] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[00:48:36] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[00:48:37] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[00:48:37] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v5.0.0-pre.9
+[00:48:37] [Server thread/INFO]: [TabTPS] Disabling TabTPS v1.3.26
+[00:48:37] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[00:48:37] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[00:48:37] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0
+[00:48:37] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.13+82fdc65
+[00:48:37] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[00:48:37] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[00:48:37] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.13+7139-cdc1c25
+[00:48:37] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:48:37] [Server thread/INFO]: [Vault] Disabling Vault v2.10.0
+[00:48:37] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.145
+[00:48:37] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[00:48:37] [Server thread/INFO]: [LuckPerms] Closing storage...
+[00:48:37] [Server thread/INFO]: [LuckPerms] Goodbye!
+[00:48:37] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.0-SNAPSHOT
+[00:48:37] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[00:48:37] [Server thread/INFO]: Saving players
+[00:48:37] [Server thread/INFO]: loviroxget lost connection: Server closed
+[00:48:37] [WebSocketConnectReadThread-266/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[00:48:37] [Server thread/INFO]: loviroxget left the game
+[00:48:37] [Server thread/INFO]: Saving worlds
+[00:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 19 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[00:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[00:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[00:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Spawn]'/minecraft:spawn
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Spawn'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Spawn'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Spawn'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'Spawn' in 0.00s
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'Spawn'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'Spawn'
+[00:48:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[pvp]'/minecraft:pvp
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'pvp'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'pvp'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'pvp'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Saved 422 block chunks, 45 entity chunks, 0 poi chunks in world 'pvp' in 0.18s
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'pvp'
+[00:48:37] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'pvp'
+[00:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (Spawn): All chunks are saved
+[00:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (pvp): All chunks are saved
+[00:48:37] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:48:37] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[00:48:37] [Server thread/INFO]: All I/O tasks to complete
+[00:48:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[00:48:37] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
