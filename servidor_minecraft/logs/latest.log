@@ -685,3 +685,97 @@ You can disable this alert in config path:
 [00:34:16] [Server thread/INFO]: [QuickShop-Hikari] Loading shops into memory...
 [00:34:16] [Server thread/INFO]: [QuickShop-Hikari] Used 0ms to load 0 shops into memory (0 shops will be loaded after chunks/world loaded).
 [00:34:25] [Server thread/INFO]: loviroxget issued server command: /mv teleport pvp
+[00:34:36] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:39] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:40] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:41] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:42] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:43] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:44] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:45] [Server thread/INFO]: loviroxget issued server command: /ping
+[00:34:51] [Server thread/INFO]: loviroxget issued server command: /chunky start
+[00:34:51] [ForkJoinPool.commonPool-worker-50/INFO]: [Chunky] Task running for world. Processed: 101 chunks (2.39%), ETA: 0:00:06, Rate: 639.2 cps, Current: 14, 8
+[00:34:52] [ForkJoinPool.commonPool-worker-44/INFO]: [Chunky] Task running for world. Processed: 901 chunks (21.33%), ETA: 0:00:04, Rate: 728.4 cps, Current: 20, 3
+[00:34:53] [ForkJoinPool.commonPool-worker-23/INFO]: [Chunky] Task running for world. Processed: 1715 chunks (40.59%), ETA: 0:00:03, Rate: 764.3 cps, Current: 29, -3
+[00:34:54] [ForkJoinPool.commonPool-worker-8/INFO]: [Chunky] Task running for world. Processed: 2717 chunks (64.31%), ETA: 0:00:01, Rate: 832.9 cps, Current: -6, -5
+[00:34:55] [ForkJoinPool.commonPool-worker-47/INFO]: [Chunky] Task running for world. Processed: 3850 chunks (91.12%), ETA: 0:00:00, Rate: 896.8 cps, Current: -1, 19
+[00:34:55] [ForkJoinPool.commonPool-worker-24/INFO]: [Chunky] Task finished for world. Processed: 4225 chunks (100.00%), Total time: 0:00:04
+[00:34:57] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:34:58] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:00] [Server thread/INFO]: loviroxget issued server command: /chunky start
+[00:35:00] [Chunky-world Thread/INFO]: [Chunky] Task finished for world. Processed: 4225 chunks (100.00%), Total time: 0:00:00
+[00:35:01] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:11] [Server thread/INFO]: loviroxget issued server command: /chunky radius 1000 1000
+[00:35:13] [Server thread/INFO]: loviroxget issued server command: /chunky start
+[00:35:13] [ForkJoinPool.commonPool-worker-11/INFO]: [Chunky] Task running for world. Processed: 1183 chunks (7.33%), ETA: 0:00:11, Rate: 1290.6 cps, Current: 38, 12
+[00:35:14] [ForkJoinPool.commonPool-worker-33/INFO]: [Chunky] Task running for world. Processed: 2065 chunks (12.80%), ETA: 0:00:15, Rate: 879.6 cps, Current: 40, -32
+[00:35:14] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:15] [ForkJoinPool.commonPool-worker-36/INFO]: [Chunky] Task running for world. Processed: 2889 chunks (17.91%), ETA: 0:00:16, Rate: 826.9 cps, Current: 53, -22
+[00:35:16] [ForkJoinPool.commonPool-worker-41/INFO]: [Chunky] Task running for world. Processed: 7089 chunks (43.95%), ETA: 0:00:10, Rate: 902.1 cps, Current: -3, 36
+[00:35:16] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:17] [ForkJoinPool.commonPool-worker-17/INFO]: [Chunky] Task running for world. Processed: 8426 chunks (52.24%), ETA: 0:00:07, Rate: 986.4 cps, Current: 38, 50
+[00:35:18] [ForkJoinPool.commonPool-worker-25/INFO]: [Chunky] Task running for world. Processed: 9826 chunks (60.92%), ETA: 0:00:05, Rate: 1056.6 cps, Current: 53, -56
+[00:35:18] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2568ms or 51 ticks behind
+[00:35:19] [ForkJoinPool.commonPool-worker-22/INFO]: [Chunky] Task running for world. Processed: 10776 chunks (66.81%), ETA: 0:00:05, Rate: 1037.0 cps, Current: 19, -36
+[00:35:20] [ForkJoinPool.commonPool-worker-13/INFO]: [Chunky] Task running for world. Processed: 11926 chunks (73.94%), ETA: 0:00:04, Rate: 1050.5 cps, Current: -8, -35
+[00:35:20] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:21] [ForkJoinPool.commonPool-worker-50/INFO]: [Chunky] Task running for world. Processed: 12826 chunks (79.52%), ETA: 0:00:03, Rate: 1031.0 cps, Current: -41, -63
+[00:35:22] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:22] [ForkJoinPool.commonPool-worker-9/INFO]: [Chunky] Task running for world. Processed: 13976 chunks (86.65%), ETA: 0:00:02, Rate: 1039.1 cps, Current: -36, -25
+[00:35:23] [ForkJoinPool.commonPool-worker-29/INFO]: [Chunky] Task running for world. Processed: 15476 chunks (95.95%), ETA: 0:00:00, Rate: 1080.7 cps, Current: -51, 34
+[00:35:23] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:35:24] [ForkJoinPool.commonPool-worker-7/INFO]: [Chunky] Task finished for world. Processed: 16129 chunks (100.00%), Total time: 0:00:10
+[00:35:25] [Server thread/INFO]: loviroxget issued server command: /chunky progress
+[00:36:20] [Server thread/INFO]: loviroxget issued server command: /schem list
+[00:36:23] [Server thread/INFO]: loviroxget issued server command: /schem load "desert_arena.schem"
+[00:36:23] [WorldEdit Task Executor - 0/INFO]: loviroxget loaded /workspaces/Iasfecraft/servidor_minecraft/plugins/WorldEdit/schematics/desert_arena.schem
+[00:36:35] [Server thread/INFO]: loviroxget issued server command: //paste
+[00:37:23] [Server thread/INFO]: [Quests] Loaded language es-ES. Translations via Crowdin
+[00:37:27] [Server thread/INFO]: loviroxget lost connection: Timed out
+[00:37:27] [Server thread/INFO]: [DiscordSRV] Player loviroxget quit with silent quitting permission, not sending a quit message
+[00:37:27] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Invalid Bot Token!
+[00:37:27] [Server thread/WARN]: Nag author(s): '[]' of 'Statusbot v20.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[00:37:27] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
+[00:37:27] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
+[00:37:27] [Server thread/INFO]: loviroxget left the game
+[00:37:50] [User Authenticator #1/INFO]: UUID of player loviroxget is 457f9b14-6159-3fed-bd7e-ff99c713c2f2
+[00:37:51] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Invalid Bot Token!
+[00:37:51] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
+[00:37:51] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
+[00:37:51] [Server thread/INFO]: [DiscordSRV] Player loviroxget joined with silent joining permission, not sending a join message
+[00:37:51] [Server thread/INFO]: Admin loviroxget joined the game
+[00:37:51] [Server thread/INFO]: loviroxget[/127.23.96.213:33057] logged in with entity id 387 at ([pvp]1.984208094753242, 250.0, -24.02103905354922)
+[00:38:01] [Server thread/INFO]: loviroxget issued server command: /mv teleport pvp
+[00:39:07] [Server thread/INFO]: loviroxget issued server command: //sphere glass
+[00:39:19] [Server thread/INFO]: loviroxget issued server command: //sphere glass 100
+[00:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8580ms or 171 ticks behind
+[00:39:43] [Server thread/INFO]: loviroxget issued server command: //undo
+[00:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7117ms or 142 ticks behind
+[00:40:12] [Server thread/INFO]: loviroxget issued server command: //sphere glass 3
+[00:40:18] [Server thread/INFO]: loviroxget issued server command: /gamemode spectator
+[00:40:20] [Server thread/INFO]: loviroxget issued server command: /gamemode creative
+[00:40:23] [Server thread/INFO]: loviroxget issued server command: //sphere glass 3 air
+[00:40:37] [Server thread/INFO]: loviroxget issued server command: //cyl glass 3
+[00:40:42] [Server thread/INFO]: loviroxget issued server command: //cyl glass 3 air
+[00:41:13] [Server thread/INFO]: loviroxget issued server command: //undo}
+[00:41:14] [Server thread/INFO]: loviroxget issued server command: //undo
+[00:41:14] [Server thread/INFO]: loviroxget issued server command: //undo
+[00:41:15] [Server thread/INFO]: loviroxget issued server command: //undo
+[00:41:26] [Server thread/INFO]: loviroxget issued server command: //redo
+[00:42:30] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[00:42:31] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[00:42:32] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[00:42:33] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[00:42:34] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[00:42:35] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[00:42:36] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[00:42:37] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[00:42:38] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[00:42:39] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[00:42:40] [Server thread/INFO]: [AntiLag] > Removing...
+[00:43:12] [Server thread/INFO]: loviroxget issued server command: //hsphere glass 3
+[00:43:18] [Server thread/INFO]: loviroxget issued server command: //undo
+[00:43:29] [Server thread/INFO]: loviroxget issued server command: //hsphere glass 70
+[00:44:02] [Server thread/INFO]: loviroxget issued server command: //hsphere barrier 50
+[00:44:13] [Server thread/INFO]: loviroxget issued server command: //undo
