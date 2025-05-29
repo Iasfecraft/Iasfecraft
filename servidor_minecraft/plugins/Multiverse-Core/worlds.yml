@@ -54,7 +54,7 @@ pvp:
     currency: '@vault-economy'
   environment: normal
   gamemode: survival
-  generator: ''
+  generator: air
   hidden: false
   hunger: true
   keep-spawn-in-memory: true
@@ -63,7 +63,7 @@ pvp:
   pvp: true
   respawn-world: ''
   scale: 1.0
-  seed: -5793291541924191754
+  seed: -8018398639677356854
   spawn-location:
     ==: MVSpawnLocation
     x: 0.0
@@ -110,22 +110,27 @@ world:
     pitch: 31.272491
     yaw: -69.23779
   spawning:
-    axolotl:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
     misc:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    water_underground_creature:
+    ambient:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
     animal:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    monster:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    water_underground_creature:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -140,12 +145,7 @@ world:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    ambient:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
-    monster:
+    axolotl:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
