@@ -27,3 +27,82 @@ You can disable this alert in config path:
 [00:03:44] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
 [00:03:45] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
 [00:03:46] [Server thread/INFO]: [AntiLag] > Removing...
+[00:11:35] [User Authenticator #2/INFO]: UUID of player loviroxget is 457f9b14-6159-3fed-bd7e-ff99c713c2f2
+[00:11:38] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Invalid Bot Token!
+[00:11:38] [Server thread/WARN]: Nag author(s): '[]' of 'Statusbot v20.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[00:11:38] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
+[00:11:38] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
+[00:11:38] [Server thread/INFO]: [DiscordSRV] Player loviroxget joined with silent joining permission, not sending a join message
+[00:11:38] [Server thread/INFO]: Admin loviroxget joined the game
+[00:11:38] [Server thread/INFO]: loviroxget[/127.23.96.213:41587] logged in with entity id 62 at ([Spawn]1.8941773150422283, 66.0, -1.4219919350303094)
+[00:11:56] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[00:11:57] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[00:11:58] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[00:11:59] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[00:12:00] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[00:12:01] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[00:12:02] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[00:12:03] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[00:12:04] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[00:12:05] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[00:12:06] [Server thread/INFO]: [AntiLag] > Removing...
+[00:12:13] [Server thread/INFO]: loviroxget issued server command: /mv create WorldName normal -t FLAT –
+[00:12:27] [Server thread/INFO]: loviroxget issued server command: /mv create pvp normal -t FLAT –
+[00:12:38] [Server thread/INFO]: loviroxget issued server command: /mv create pvp normal -t flat
+[00:12:38] [Server thread/ERROR]: No key layers in MapLike[{}]
+[00:12:39] [Server thread/INFO]: Preparing start region for dimension minecraft:pvp
+[00:12:39] [Server thread/INFO]: Preparing spawn area: 2%
+[00:12:40] [Server thread/INFO]: Time elapsed: 492 ms
+[00:12:40] [Server thread/INFO]: [WorldGuard] Default configuration file written: config_world.yml
+[00:12:40] [Server thread/INFO]: [WorldGuard] Default configuration file written: blacklist.txt
+[00:12:40] [Server thread/INFO]: [WorldGuard] (pvp) TNT ignition is PERMITTED.
+[00:12:40] [Server thread/INFO]: [WorldGuard] (pvp) Lighters are PERMITTED.
+[00:12:40] [Server thread/INFO]: [WorldGuard] (pvp) Lava fire is PERMITTED.
+[00:12:40] [Server thread/INFO]: [WorldGuard] (pvp) Fire spread is UNRESTRICTED.
+[00:12:40] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'pvp'
+[00:12:40] [Server thread/INFO]: [QuickShop-Hikari] Loading shops from database...
+[00:12:40] [Server thread/INFO]: [QuickShop-Hikari] Used 1ms to fetch 0 shops from database.
+[00:12:40] [Server thread/INFO]: [QuickShop-Hikari] Loading shops into memory...
+[00:12:40] [Server thread/INFO]: [QuickShop-Hikari] Used 0ms to load 0 shops into memory (0 shops will be loaded after chunks/world loaded).
+[00:13:13] [Server thread/INFO]: loviroxget issued server command: /mv teleport e:pvp:
+[00:13:21] [Server thread/INFO]: loviroxget issued server command: /mv teleport e:pvp: --unsafe
+[00:13:33] [Server thread/INFO]: loviroxget issued server command: /mv teleport e:pvp:0 100 0
+[00:13:38] [Server thread/INFO]: loviroxget issued server command: /mv teleport pvp
+[00:14:58] [Server thread/INFO]: loviroxget issued server command: //set air
+[00:15:16] [Server thread/INFO]: loviroxget issued server command: /difficulty peaceful
+[00:15:16] [Server thread/INFO]: [Admin loviroxget: The difficulty has been set to Peaceful]
+[00:15:42] [Server thread/INFO]: loviroxget issued server command: //set air
+[00:15:56] [Server thread/INFO]: loviroxget issued server command: //set air
+[00:16:53] [Server thread/INFO]: loviroxget issued server command: //set air
+[00:17:06] [Server thread/INFO]: loviroxget issued server command: //set air
+[00:17:15] [Server thread/INFO]: loviroxget issued server command: /up 1
+[00:17:22] [Server thread/INFO]: loviroxget issued server command: //schem list
+[00:17:23] [Server thread/INFO]: loviroxget issued server command: /schem load "loviroxget-1748476726196.schem"
+[00:17:24] [WorldEdit Task Executor - 1/INFO]: loviroxget loaded /workspaces/Iasfecraft/servidor_minecraft/plugins/WorldEdit/schematics/loviroxget-1748476726196.schem
+[00:17:31] [Server thread/INFO]: loviroxget issued server command: //paste ~ ~ ~
+[00:17:40] [Server thread/INFO]: loviroxget issued server command: //paste ~ ~ ~ ~ ~ ~
+[00:17:44] [Server thread/INFO]: loviroxget issued server command: //paste
+[00:18:06] [Server thread/INFO]: loviroxget issued server command: /tp -488 -62 -574
+[00:18:22] [Server thread/INFO]: loviroxget issued server command: //paste
+[00:18:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12524ms or 250 ticks behind
+[00:18:35] [Server thread/WARN]: loviroxget moved too quickly! -35.99440123759683,-85.25619912067485,-110.085959677186
+[00:18:49] [Async Chat Thread - #0/INFO]: [Not Secure] <loviroxget> a
+[00:18:50] [Craft Scheduler Thread - 34 - DiscordSRV/WARN]: [DiscordSRV] Plugin DiscordSRV v1.29.0 generated an exception while executing task 64443
+java.lang.NoClassDefFoundError: com/onarandombox/MultiverseCore/MultiverseCore
+	at DiscordSRV-Build-1.29.0.jar/github.scarsz.discordsrv.hooks.world.MultiverseCoreHook.getWorldAlias(MultiverseCoreHook.java:37) ~[DiscordSRV-Build-1.29.0.jar:?]
+	at DiscordSRV-Build-1.29.0.jar/github.scarsz.discordsrv.DiscordSRV.processChatMessage(DiscordSRV.java:1789) ~[DiscordSRV-Build-1.29.0.jar:?]
+	at DiscordSRV-Build-1.29.0.jar/github.scarsz.discordsrv.DiscordSRV.processChatMessage(DiscordSRV.java:1668) ~[DiscordSRV-Build-1.29.0.jar:?]
+	at DiscordSRV-Build-1.29.0.jar/github.scarsz.discordsrv.listeners.PlayerChatListener.lambda$onAsyncPlayerChat$0(PlayerChatListener.java:43) ~[DiscordSRV-Build-1.29.0.jar:?]
+	at org.bukkit.craftbukkit.scheduler.CraftTask.run(CraftTask.java:78) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.craftbukkit.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.21.4.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.ClassNotFoundException: com.onarandombox.MultiverseCore.MultiverseCore
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	... 10 more
+[00:19:15] [Server thread/INFO]: loviroxget issued server command: //undo
+[00:19:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9997ms or 199 ticks behind

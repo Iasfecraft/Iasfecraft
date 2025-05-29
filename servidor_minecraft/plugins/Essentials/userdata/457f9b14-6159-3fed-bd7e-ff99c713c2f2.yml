@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   onlinejail: 0
   logout: 1748476896179
-  login: 1748476786941
+  login: 1748477498489
 money: '0'
 last-account-name: loviroxget
 logoutlocation:
@@ -28,3 +28,11 @@ logoutlocation:
   z: -1.4219919350303094
   yaw: 43.35516357421875
   pitch: -4.143590927124023
+lastlocation:
+  world: 333ce5c2-eb62-4acb-b89f-4cb3e77a5fa5
+  world-name: pvp
+  x: -524.0494594275756
+  y: -32.004672823580925
+  z: -517.4506840841874
+  yaw: -46.97491455078125
+  pitch: 20.47861099243164
