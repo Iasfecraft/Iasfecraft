@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1747740227613
-  login: 1747739950112
+  logout: 1748482107083
+  login: 1748481819033
 money: '0'
 last-account-name: .Lovirox
 logoutlocation:
   world: 0e12611f-bf46-459e-ab18-7af1be7d2f54
   world-name: Spawn
-  x: 0.5
-  y: 66.0
-  z: 0.5
-  yaw: -4.350000381469727
-  pitch: 90.0
+  x: -2.3015015
+  y: 65.0
+  z: 4.36275
+  yaw: 164.41339111328125
+  pitch: 6.6680908203125

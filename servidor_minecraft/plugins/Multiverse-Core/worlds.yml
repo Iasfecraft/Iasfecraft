@@ -72,7 +72,7 @@ pvp:
     pitch: 0.0
     yaw: 0.0
   spawning:
-    misc:
+    monster:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -82,7 +82,7 @@ pvp:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    monster:
+    misc:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -125,22 +125,17 @@ world:
     pitch: 31.272491
     yaw: -69.23779
   spawning:
-    misc:
-      spawn: true
-      tick-rate: -1
-      spawn-limit: -1
-      exceptions: []
     ambient:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    animal:
+    axolotl:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    monster:
+    water_animal:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
@@ -155,12 +150,17 @@ world:
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    water_animal:
+    monster:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
       exceptions: []
-    axolotl:
+    animal:
+      spawn: true
+      tick-rate: -1
+      spawn-limit: -1
+      exceptions: []
+    misc:
       spawn: true
       tick-rate: -1
       spawn-limit: -1
