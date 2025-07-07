@@ -1531,3 +1531,25 @@ java.lang.NullPointerException: Cannot invoke "com.gmail.picono435.picojobs.libs
 [20:09:57] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
 [20:09:58] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
 [20:09:59] [Server thread/INFO]: [AntiLag] > Removing...
+[20:12:11] [Folia Async Scheduler Thread #0/INFO]: [[38;5;11m⚡[0m] 
+∘₊✧────────────────────────────────✧₊∘
+LagFixer needs an update!
+Version: 1.4.10 (build 105) -> 1.4.20
+https://modrinth.com/plugin/lagfixer
+
+⚠ Updating this plugin is crucial ⚠
+⚠ for server optimization. ⚠
+∘₊✧────────────────────────────────✧₊∘
+You can disable this alert in config path:
+ main -> updater -> false
+[20:18:09] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[20:18:10] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[20:18:11] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[20:18:12] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[20:18:13] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[20:18:14] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[20:18:15] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[20:18:16] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[20:18:17] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[20:18:18] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[20:18:19] [Server thread/INFO]: [AntiLag] > Removing...
