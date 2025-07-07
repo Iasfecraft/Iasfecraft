@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1748482107089
-  login: 1751916601738
+  logout: 1751917344955
+  login: 1751917351656
 money: '0'
 last-account-name: loviroxget
 logoutlocation:
   world: 0e12611f-bf46-459e-ab18-7af1be7d2f54
   world-name: Spawn
-  x: 5.436626171076792
-  y: 64.5
-  z: -2.3779696504858268
-  yaw: 57.10194396972656
-  pitch: 24.06500244140625
+  x: 0.9888352126534519
+  y: 88.96526243203138
+  z: 1.7208154011099177
+  yaw: -32.9632568359375
+  pitch: 40.53964614868164
 lastlocation:
   world: 0e12611f-bf46-459e-ab18-7af1be7d2f54
   world-name: Spawn
