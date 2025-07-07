@@ -668,3 +668,21 @@ You can disable this alert in config path:
 [19:19:57] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
 [19:19:58] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
 [19:19:59] [Server thread/INFO]: [AntiLag] > Removing...
+[19:28:09] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[19:28:10] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[19:28:11] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[19:28:12] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[19:28:13] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[19:28:14] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[19:28:15] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[19:28:16] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[19:28:17] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[19:28:18] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[19:28:19] [Server thread/INFO]: [AntiLag] > Removing...
+[19:29:59] [User Authenticator #0/INFO]: UUID of player loviroxget is 457f9b14-6159-3fed-bd7e-ff99c713c2f2
+[19:30:01] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Invalid Bot Token!
+[19:30:01] [Server thread/WARN]: Nag author(s): '[]' of 'Statusbot v20.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[19:30:01] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
+[19:30:01] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
+[19:30:01] [Server thread/INFO]: Admin loviroxget joined the game
+[19:30:01] [Server thread/INFO]: loviroxget[/127.23.96.213:33713] logged in with entity id 137 at ([Spawn]5.436626171076792, 64.5, -2.3779696504858268)

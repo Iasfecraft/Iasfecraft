@@ -91,3 +91,2518 @@ quests:
       - ==: org.bukkit.inventory.ItemStack
         type: GOLD_INGOT
       exp: 150
+  default5:
+    name: Misión 1
+    ask-message: <yellow>Mata <pink>4<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default6:
+    name: Misión 2
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default7:
+    name: Misión 3
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COPPER_ORE<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COPPER_ORE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default8:
+    name: Misión 4
+    ask-message: <yellow>Mata <pink>10<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default9:
+    name: Misión 5
+    ask-message: <yellow>Pezca <pink>2<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 2
+          death-event: DeathFail
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default10:
+    name: Misión 6
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>OAK_LOG<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - OAK_LOG
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default11:
+    name: Misión 7
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default12:
+    name: Misión 8
+    ask-message: <yellow>Pezca <pink>8<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 8
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default13:
+    name: Misión 9
+    ask-message: <yellow>Rompe <pink>15<yellow> bloques de <pink>STONE<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - STONE
+          break-block-amounts:
+          - 15
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default14:
+    name: Misión 10
+    ask-message: <yellow>Mata <pink>2<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default15:
+    name: Misión 11
+    ask-message: <yellow>Pezca <pink>4<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 4
+          death-event: DeathFail
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default16:
+    name: Misión 12
+    ask-message: <yellow>Rompe <pink>9<yellow> bloques de <pink>SAND<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SAND
+          break-block-amounts:
+          - 9
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default17:
+    name: Misión 13
+    ask-message: <yellow>Mata <pink>8<yellow> <pink>Chickens<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Chicken
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default18:
+    name: Misión 14
+    ask-message: <yellow>Pezca <pink>10<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 10
+          death-event: DeathFail
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default19:
+    name: Misión 15
+    ask-message: <yellow>Rompe <pink>3<yellow> bloques de <pink>SPRUCE_LOG<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SPRUCE_LOG
+          break-block-amounts:
+          - 3
+          break-block-durability:
+          - 0
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default20:
+    name: Misión 16
+    ask-message: <yellow>Mata <pink>4<yellow> <pink>Creepers<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Creeper
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default21:
+    name: Misión 17
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default22:
+    name: Misión 18
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COAL_ORE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default23:
+    name: Misión 19
+    ask-message: <yellow>Mata <pink>10<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default24:
+    name: Misión 20
+    ask-message: <yellow>Pezca <pink>2<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 2
+          death-event: DeathFail
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default25:
+    name: Misión 21
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>GRAVEL<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - GRAVEL
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default26:
+    name: Misión 22
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default27:
+    name: Misión 23
+    ask-message: <yellow>Pezca <pink>8<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 8
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default28:
+    name: Misión 24
+    ask-message: <yellow>Rompe <pink>15<yellow> bloques de <pink>DIRT<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 15
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default29:
+    name: Misión 25
+    ask-message: <yellow>Mata <pink>2<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default30:
+    name: Misión 26
+    ask-message: <yellow>Pezca <pink>4<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 4
+          death-event: DeathFail
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default31:
+    name: Misión 27
+    ask-message: <yellow>Rompe <pink>9<yellow> bloques de <pink>COPPER_ORE<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COPPER_ORE
+          break-block-amounts:
+          - 9
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default32:
+    name: Misión 28
+    ask-message: <yellow>Mata <pink>8<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default33:
+    name: Misión 29
+    ask-message: <yellow>Pezca <pink>10<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 10
+          death-event: DeathFail
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default34:
+    name: Misión 30
+    ask-message: <yellow>Rompe <pink>3<yellow> bloques de <pink>OAK_LOG<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - OAK_LOG
+          break-block-amounts:
+          - 3
+          break-block-durability:
+          - 0
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default35:
+    name: Misión 31
+    ask-message: <yellow>Mata <pink>4<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default36:
+    name: Misión 32
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default37:
+    name: Misión 33
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>STONE<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - STONE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default38:
+    name: Misión 34
+    ask-message: <yellow>Mata <pink>10<yellow> <pink>Chickens<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Chicken
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default39:
+    name: Misión 35
+    ask-message: <yellow>Pezca <pink>2<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 2
+          death-event: DeathFail
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default40:
+    name: Misión 36
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SAND<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SAND
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default41:
+    name: Misión 37
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Creepers<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Creeper
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default42:
+    name: Misión 38
+    ask-message: <yellow>Pezca <pink>8<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 8
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default43:
+    name: Misión 39
+    ask-message: <yellow>Rompe <pink>15<yellow> bloques de <pink>SPRUCE_LOG<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SPRUCE_LOG
+          break-block-amounts:
+          - 15
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default44:
+    name: Misión 40
+    ask-message: <yellow>Mata <pink>2<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default45:
+    name: Misión 41
+    ask-message: <yellow>Pezca <pink>4<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 4
+          death-event: DeathFail
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default46:
+    name: Misión 42
+    ask-message: <yellow>Rompe <pink>9<yellow> bloques de <pink>COAL_ORE<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COAL_ORE
+          break-block-amounts:
+          - 9
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default47:
+    name: Misión 43
+    ask-message: <yellow>Mata <pink>8<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default48:
+    name: Misión 44
+    ask-message: <yellow>Pezca <pink>10<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 10
+          death-event: DeathFail
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default49:
+    name: Misión 45
+    ask-message: <yellow>Rompe <pink>3<yellow> bloques de <pink>GRAVEL<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - GRAVEL
+          break-block-amounts:
+          - 3
+          break-block-durability:
+          - 0
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default50:
+    name: Misión 46
+    ask-message: <yellow>Mata <pink>4<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1000
+      quest-points: 1
+      exp: 200
+  default51:
+    name: Misión 47
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1500
+      quest-points: 2
+      exp: 300
+  default52:
+    name: Misión 48
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>DIRT<yellow>.
+    finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2000
+      quest-points: 2
+      exp: 400
+  default53:
+    name: Misión 49
+    ask-message: <yellow>Mata <pink>10<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 2500
+      quest-points: 3
+      exp: 500
+  default54:
+    name: Misión 50
+    ask-message: <yellow>Pezca <pink>2<yellow> peces.
+    finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 2
+          death-event: DeathFail
+    rewards:
+      money: 500
+      quest-points: 1
+      exp: 100
+  default55:
+    name: Misión 55
+    ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
+      <pink>2<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - GRAVEL
+          break-block-amounts:
+          - 2
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 800
+      quest-points: 2
+      exp: 220
+  default56:
+    name: Misión 56
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - OAK_LOG
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default57:
+    name: Misión 57
+    ask-message: <yellow>Mata <pink>9<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default58:
+    name: Misión 58
+    ask-message: <yellow>Pezca <pink>12<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default59:
+    name: Misión 59
+    ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
+      y mata <pink>10<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DEEPSLATE
+          break-block-amounts:
+          - 10
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 3200
+      quest-points: 4
+      exp: 700
+  default60:
+    name: Misión 60
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default61:
+    name: Misión 61
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Slimes<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Slime
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default62:
+    name: Misión 62
+    ask-message: <yellow>Pezca <pink>9<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default63:
+    name: Misión 63
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
+      y mata <pink>8<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COPPER_ORE
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2600
+      quest-points: 3
+      exp: 580
+  default64:
+    name: Misión 64
+    ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SAND
+          break-block-amounts:
+          - 20
+          break-block-durability:
+          - 0
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default65:
+    name: Misión 65
+    ask-message: <yellow>Mata <pink>3<yellow> <pink>Creepers<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Creeper
+          mob-amounts:
+          - 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default66:
+    name: Misión 66
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default67:
+    name: Misión 67
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
+      y mata <pink>6<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SPRUCE_LOG
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 3
+      exp: 460
+  default68:
+    name: Misión 68
+    ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - IRON_ORE
+          break-block-amounts:
+          - 16
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default69:
+    name: Misión 69
+    ask-message: <yellow>Mata <pink>15<yellow> <pink>Chickens<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Chicken
+          mob-amounts:
+          - 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default70:
+    name: Misión 70
+    ask-message: <yellow>Pezca <pink>3<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default71:
+    name: Misión 71
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
+      <pink>4<yellow> <pink>Endermans<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - STONE
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Enderman
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1400
+      quest-points: 2
+      exp: 340
+  default72:
+    name: Misión 72
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COAL_ORE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default73:
+    name: Misión 73
+    ask-message: <yellow>Mata <pink>12<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default74:
+    name: Misión 74
+    ask-message: <yellow>Pezca <pink>15<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default75:
+    name: Misión 75
+    ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
+      <pink>2<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - GRAVEL
+          break-block-amounts:
+          - 2
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 800
+      quest-points: 2
+      exp: 220
+  default76:
+    name: Misión 76
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - OAK_LOG
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default77:
+    name: Misión 77
+    ask-message: <yellow>Mata <pink>9<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default78:
+    name: Misión 78
+    ask-message: <yellow>Pezca <pink>12<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default79:
+    name: Misión 79
+    ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
+      y mata <pink>10<yellow> <pink>Slimes<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DEEPSLATE
+          break-block-amounts:
+          - 10
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Slime
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 3200
+      quest-points: 4
+      exp: 700
+  default80:
+    name: Misión 80
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default81:
+    name: Misión 81
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default82:
+    name: Misión 82
+    ask-message: <yellow>Pezca <pink>9<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default83:
+    name: Misión 83
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
+      y mata <pink>8<yellow> <pink>Creepers<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COPPER_ORE
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Creeper
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2600
+      quest-points: 3
+      exp: 580
+  default84:
+    name: Misión 84
+    ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SAND
+          break-block-amounts:
+          - 20
+          break-block-durability:
+          - 0
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default85:
+    name: Misión 85
+    ask-message: <yellow>Mata <pink>3<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default86:
+    name: Misión 86
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default87:
+    name: Misión 87
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
+      y mata <pink>6<yellow> <pink>Chickens<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SPRUCE_LOG
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Chicken
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 3
+      exp: 460
+  default88:
+    name: Misión 88
+    ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - IRON_ORE
+          break-block-amounts:
+          - 16
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default89:
+    name: Misión 89
+    ask-message: <yellow>Mata <pink>15<yellow> <pink>Endermans<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Enderman
+          mob-amounts:
+          - 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default90:
+    name: Misión 90
+    ask-message: <yellow>Pezca <pink>3<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default91:
+    name: Misión 91
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
+      <pink>4<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - STONE
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1400
+      quest-points: 2
+      exp: 340
+  default92:
+    name: Misión 92
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COAL_ORE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default93:
+    name: Misión 93
+    ask-message: <yellow>Mata <pink>12<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default94:
+    name: Misión 94
+    ask-message: <yellow>Pezca <pink>15<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default95:
+    name: Misión 95
+    ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
+      <pink>2<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - GRAVEL
+          break-block-amounts:
+          - 2
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 800
+      quest-points: 2
+      exp: 220
+  default96:
+    name: Misión 96
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - OAK_LOG
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default97:
+    name: Misión 97
+    ask-message: <yellow>Mata <pink>9<yellow> <pink>Slimes<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Slime
+          mob-amounts:
+          - 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default98:
+    name: Misión 98
+    ask-message: <yellow>Pezca <pink>12<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default99:
+    name: Misión 99
+    ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
+      y mata <pink>10<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DEEPSLATE
+          break-block-amounts:
+          - 10
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 3200
+      quest-points: 4
+      exp: 700
+  default100:
+    name: Misión 100
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default101:
+    name: Misión 101
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Creepers<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Creeper
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default102:
+    name: Misión 102
+    ask-message: <yellow>Pezca <pink>9<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default103:
+    name: Misión 103
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
+      y mata <pink>8<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COPPER_ORE
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2600
+      quest-points: 3
+      exp: 580
+  default104:
+    name: Misión 104
+    ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SAND
+          break-block-amounts:
+          - 20
+          break-block-durability:
+          - 0
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default105:
+    name: Misión 105
+    ask-message: <yellow>Mata <pink>3<yellow> <pink>Chickens<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Chicken
+          mob-amounts:
+          - 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default106:
+    name: Misión 106
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default107:
+    name: Misión 107
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
+      y mata <pink>6<yellow> <pink>Endermans<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SPRUCE_LOG
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Enderman
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 3
+      exp: 460
+  default108:
+    name: Misión 108
+    ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - IRON_ORE
+          break-block-amounts:
+          - 16
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default109:
+    name: Misión 109
+    ask-message: <yellow>Mata <pink>15<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default110:
+    name: Misión 110
+    ask-message: <yellow>Pezca <pink>3<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default111:
+    name: Misión 111
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
+      <pink>4<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - STONE
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1400
+      quest-points: 2
+      exp: 340
+  default112:
+    name: Misión 112
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COAL_ORE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default113:
+    name: Misión 113
+    ask-message: <yellow>Mata <pink>12<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default114:
+    name: Misión 114
+    ask-message: <yellow>Pezca <pink>15<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default115:
+    name: Misión 115
+    ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
+      <pink>2<yellow> <pink>Slimes<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - GRAVEL
+          break-block-amounts:
+          - 2
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Slime
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 800
+      quest-points: 2
+      exp: 220
+  default116:
+    name: Misión 116
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - OAK_LOG
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default117:
+    name: Misión 117
+    ask-message: <yellow>Mata <pink>9<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default118:
+    name: Misión 118
+    ask-message: <yellow>Pezca <pink>12<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default119:
+    name: Misión 119
+    ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
+      y mata <pink>10<yellow> <pink>Creepers<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DEEPSLATE
+          break-block-amounts:
+          - 10
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Creeper
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 3200
+      quest-points: 4
+      exp: 700
+  default120:
+    name: Misión 120
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default121:
+    name: Misión 121
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default122:
+    name: Misión 122
+    ask-message: <yellow>Pezca <pink>9<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default123:
+    name: Misión 123
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
+      y mata <pink>8<yellow> <pink>Chickens<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COPPER_ORE
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Chicken
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2600
+      quest-points: 3
+      exp: 580
+  default124:
+    name: Misión 124
+    ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SAND
+          break-block-amounts:
+          - 20
+          break-block-durability:
+          - 0
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default125:
+    name: Misión 125
+    ask-message: <yellow>Mata <pink>3<yellow> <pink>Endermans<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Enderman
+          mob-amounts:
+          - 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default126:
+    name: Misión 126
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default127:
+    name: Misión 127
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
+      y mata <pink>6<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SPRUCE_LOG
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 3
+      exp: 460
+  default128:
+    name: Misión 128
+    ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - IRON_ORE
+          break-block-amounts:
+          - 16
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default129:
+    name: Misión 129
+    ask-message: <yellow>Mata <pink>15<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default130:
+    name: Misión 130
+    ask-message: <yellow>Pezca <pink>3<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default131:
+    name: Misión 131
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
+      <pink>4<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - STONE
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1400
+      quest-points: 2
+      exp: 340
+  default132:
+    name: Misión 132
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COAL_ORE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default133:
+    name: Misión 133
+    ask-message: <yellow>Mata <pink>12<yellow> <pink>Slimes<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Slime
+          mob-amounts:
+          - 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default134:
+    name: Misión 134
+    ask-message: <yellow>Pezca <pink>15<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default135:
+    name: Misión 135
+    ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
+      <pink>2<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - GRAVEL
+          break-block-amounts:
+          - 2
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 2
+          death-event: DeathFail
+    rewards:
+      money: 800
+      quest-points: 2
+      exp: 220
+  default136:
+    name: Misión 136
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - OAK_LOG
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default137:
+    name: Misión 137
+    ask-message: <yellow>Mata <pink>9<yellow> <pink>Creepers<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Creeper
+          mob-amounts:
+          - 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default138:
+    name: Misión 138
+    ask-message: <yellow>Pezca <pink>12<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default139:
+    name: Misión 139
+    ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
+      y mata <pink>10<yellow> <pink>Pigs<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DEEPSLATE
+          break-block-amounts:
+          - 10
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Pig
+          mob-amounts:
+          - 10
+          death-event: DeathFail
+    rewards:
+      money: 3200
+      quest-points: 4
+      exp: 700
+  default140:
+    name: Misión 140
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - DIRT
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default141:
+    name: Misión 141
+    ask-message: <yellow>Mata <pink>6<yellow> <pink>Chickens<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Chicken
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default142:
+    name: Misión 142
+    ask-message: <yellow>Pezca <pink>9<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 9
+          death-event: DeathFail
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default143:
+    name: Misión 143
+    ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
+      y mata <pink>8<yellow> <pink>Endermans<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COPPER_ORE
+          break-block-amounts:
+          - 8
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Enderman
+          mob-amounts:
+          - 8
+          death-event: DeathFail
+    rewards:
+      money: 2600
+      quest-points: 3
+      exp: 580
+  default144:
+    name: Misión 144
+    ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SAND
+          break-block-amounts:
+          - 20
+          break-block-durability:
+          - 0
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default145:
+    name: Misión 145
+    ask-message: <yellow>Mata <pink>3<yellow> <pink>Skeletons<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Skeleton
+          mob-amounts:
+          - 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default146:
+    name: Misión 146
+    ask-message: <yellow>Pezca <pink>6<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 6
+          death-event: DeathFail
+    rewards:
+      money: 1200
+      quest-points: 1
+      exp: 240
+  default147:
+    name: Misión 147
+    ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
+      y mata <pink>6<yellow> <pink>Spiders<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - SPRUCE_LOG
+          break-block-amounts:
+          - 6
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Spider
+          mob-amounts:
+          - 6
+          death-event: DeathFail
+    rewards:
+      money: 2000
+      quest-points: 3
+      exp: 460
+  default148:
+    name: Misión 148
+    ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - IRON_ORE
+          break-block-amounts:
+          - 16
+          break-block-durability:
+          - 0
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default149:
+    name: Misión 149
+    ask-message: <yellow>Mata <pink>15<yellow> <pink>Cows<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Cow
+          mob-amounts:
+          - 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
+  default150:
+    name: Misión 150
+    ask-message: <yellow>Pezca <pink>3<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 3
+          death-event: DeathFail
+    rewards:
+      money: 600
+      quest-points: 1
+      exp: 120
+  default151:
+    name: Misión 151
+    ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
+      <pink>4<yellow> <pink>Slimes<yellow>.
+    finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - STONE
+          break-block-amounts:
+          - 4
+          break-block-durability:
+          - 0
+        '2':
+          mobs-to-kill:
+          - Slime
+          mob-amounts:
+          - 4
+          death-event: DeathFail
+    rewards:
+      money: 1400
+      quest-points: 2
+      exp: 340
+  default152:
+    name: Misión 152
+    ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
+    finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
+    stages:
+      ordered:
+        '1':
+          break-block-names:
+          - COAL_ORE
+          break-block-amounts:
+          - 12
+          break-block-durability:
+          - 0
+    rewards:
+      money: 1800
+      quest-points: 2
+      exp: 360
+  default153:
+    name: Misión 153
+    ask-message: <yellow>Mata <pink>12<yellow> <pink>Zombies<yellow>.
+    finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
+    stages:
+      ordered:
+        '1':
+          mobs-to-kill:
+          - Zombie
+          mob-amounts:
+          - 12
+          death-event: DeathFail
+    rewards:
+      money: 2400
+      quest-points: 2
+      exp: 480
+  default154:
+    name: Misión 154
+    ask-message: <yellow>Pezca <pink>15<yellow> peces.
+    finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
+    stages:
+      ordered:
+        '1':
+          fish-to-catch: 15
+          death-event: DeathFail
+    rewards:
+      money: 3000
+      quest-points: 3
+      exp: 600
