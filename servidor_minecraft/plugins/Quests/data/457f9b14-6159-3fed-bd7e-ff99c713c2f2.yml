@@ -1,4 +1,34 @@
 currentQuests: []
 currentStages: []
 quest-points: 0
+completedRedoableQuests:
+- default4
+- default103
+- default2
+- default102
+- default2
+- default101
+- default3
+- default3
+- default1
+- default104
+- default4
+- default10
+- default100
+- default1
+completedQuestTimes:
+- 1751916628745
+- 1751916655268
+- 1751916628745
+- 1751916655268
+- 1751916628745
+- 1751916655268
+- 1751916628745
+- 1751916628745
+- 1751916628745
+- 1751916655268
+- 1751916628745
+- 1751916655268
+- 1751916655268
+- 1751916628745
 lastKnownName: loviroxget

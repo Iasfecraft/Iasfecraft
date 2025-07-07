@@ -1,7 +1,7 @@
 # For non-English characters, this file MUST stay encoded in UTF-8
 quests:
   default1:
-    name: 'Iron Miner'
+    name: 'Minero de hierro'
     ask-message: '<yellow>Mine <pink>2<yellow> blocks of <pink>Iron Ore<yellow>.'
     finish-message: '<yellow>Well done. Here is your reward.'
     redo-delay: 1800
@@ -25,7 +25,7 @@ quests:
       money: 1000
       quest-points: 1
   default2:
-    name: 'Mob Hunter'
+    name: 'Cazador de la mafia'
     ask-message: '<yellow>Kill an assortment of Mobs.'
     finish-message: '<yellow>Excellent. Here is a <pink>Diamond Sword<yellow>.'
     stages:
@@ -57,7 +57,7 @@ quests:
       exp: 100
       quest-points: 1
   default3:
-    name: 'Catch Fish'
+    name: 'pescar'
     ask-message: '<yellow>Catch some fish!'
     finish-message: '<yellow>Good job. Here is some <green>experience<yellow>.'
     stages:
@@ -69,7 +69,7 @@ quests:
     rewards:
       exp: 250
   default4:
-    name: 'Timed Quest'
+    name: 'Misión cronometrada'
     ask-message: '<yellow>Dig up <pink>10<yellow> blocks of <pink>Dirt<yellow> before time runs out!'
     finish-message: '<yellow>You did it in time! Have an <pink>Iron Shovel<yellow> and some <green>experience<yellow>.'
     requirements:
@@ -92,7 +92,7 @@ quests:
         type: GOLD_INGOT
       exp: 150
   default5:
-    name: Misión 1
+    name: Cazador de Skeletons x4
     ask-message: <yellow>Mata <pink>4<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -108,7 +108,7 @@ quests:
       quest-points: 1
       exp: 200
   default6:
-    name: Misión 2
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -121,7 +121,7 @@ quests:
       quest-points: 2
       exp: 300
   default7:
-    name: Misión 3
+    name: Minería de Copper Ore x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COPPER_ORE<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -138,7 +138,7 @@ quests:
       quest-points: 2
       exp: 400
   default8:
-    name: Misión 4
+    name: Cazador de Pigs x10
     ask-message: <yellow>Mata <pink>10<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -154,7 +154,7 @@ quests:
       quest-points: 3
       exp: 500
   default9:
-    name: Misión 5
+    name: Pescador experto x2
     ask-message: <yellow>Pezca <pink>2<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -167,7 +167,7 @@ quests:
       quest-points: 1
       exp: 100
   default10:
-    name: Misión 6
+    name: Minería de Oak Log x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>OAK_LOG<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -184,7 +184,7 @@ quests:
       quest-points: 1
       exp: 200
   default11:
-    name: Misión 7
+    name: Cazador de Zombies x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -200,7 +200,7 @@ quests:
       quest-points: 2
       exp: 300
   default12:
-    name: Misión 8
+    name: Pescador experto x8
     ask-message: <yellow>Pezca <pink>8<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -213,7 +213,7 @@ quests:
       quest-points: 2
       exp: 400
   default13:
-    name: Misión 9
+    name: Minería de Stone x15
     ask-message: <yellow>Rompe <pink>15<yellow> bloques de <pink>STONE<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -230,7 +230,7 @@ quests:
       quest-points: 3
       exp: 500
   default14:
-    name: Misión 10
+    name: Cazador de Spiders x2
     ask-message: <yellow>Mata <pink>2<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -246,7 +246,7 @@ quests:
       quest-points: 1
       exp: 100
   default15:
-    name: Misión 11
+    name: Pescador experto x4
     ask-message: <yellow>Pezca <pink>4<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -259,7 +259,7 @@ quests:
       quest-points: 1
       exp: 200
   default16:
-    name: Misión 12
+    name: Minería de Sand x9
     ask-message: <yellow>Rompe <pink>9<yellow> bloques de <pink>SAND<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -276,7 +276,7 @@ quests:
       quest-points: 2
       exp: 300
   default17:
-    name: Misión 13
+    name: Cazador de Chickens x8
     ask-message: <yellow>Mata <pink>8<yellow> <pink>Chickens<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -292,7 +292,7 @@ quests:
       quest-points: 2
       exp: 400
   default18:
-    name: Misión 14
+    name: Pescador experto x10
     ask-message: <yellow>Pezca <pink>10<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -305,7 +305,7 @@ quests:
       quest-points: 3
       exp: 500
   default19:
-    name: Misión 15
+    name: Minería de Spruce Log x3
     ask-message: <yellow>Rompe <pink>3<yellow> bloques de <pink>SPRUCE_LOG<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -322,7 +322,7 @@ quests:
       quest-points: 1
       exp: 100
   default20:
-    name: Misión 16
+    name: Cazador de Creepers x4
     ask-message: <yellow>Mata <pink>4<yellow> <pink>Creepers<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -338,7 +338,7 @@ quests:
       quest-points: 1
       exp: 200
   default21:
-    name: Misión 17
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -351,7 +351,7 @@ quests:
       quest-points: 2
       exp: 300
   default22:
-    name: Misión 18
+    name: Minería de Coal Ore x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -368,7 +368,7 @@ quests:
       quest-points: 2
       exp: 400
   default23:
-    name: Misión 19
+    name: Cazador de Cows x10
     ask-message: <yellow>Mata <pink>10<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -384,7 +384,7 @@ quests:
       quest-points: 3
       exp: 500
   default24:
-    name: Misión 20
+    name: Pescador experto x2
     ask-message: <yellow>Pezca <pink>2<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -397,7 +397,7 @@ quests:
       quest-points: 1
       exp: 100
   default25:
-    name: Misión 21
+    name: Minería de Gravel x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>GRAVEL<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -414,7 +414,7 @@ quests:
       quest-points: 1
       exp: 200
   default26:
-    name: Misión 22
+    name: Cazador de Skeletons x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -430,7 +430,7 @@ quests:
       quest-points: 2
       exp: 300
   default27:
-    name: Misión 23
+    name: Pescador experto x8
     ask-message: <yellow>Pezca <pink>8<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -443,7 +443,7 @@ quests:
       quest-points: 2
       exp: 400
   default28:
-    name: Misión 24
+    name: Minería de Dirt x15
     ask-message: <yellow>Rompe <pink>15<yellow> bloques de <pink>DIRT<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -460,7 +460,7 @@ quests:
       quest-points: 3
       exp: 500
   default29:
-    name: Misión 25
+    name: Cazador de Pigs x2
     ask-message: <yellow>Mata <pink>2<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -476,7 +476,7 @@ quests:
       quest-points: 1
       exp: 100
   default30:
-    name: Misión 26
+    name: Pescador experto x4
     ask-message: <yellow>Pezca <pink>4<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -489,7 +489,7 @@ quests:
       quest-points: 1
       exp: 200
   default31:
-    name: Misión 27
+    name: Minería de Copper Ore x9
     ask-message: <yellow>Rompe <pink>9<yellow> bloques de <pink>COPPER_ORE<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -506,7 +506,7 @@ quests:
       quest-points: 2
       exp: 300
   default32:
-    name: Misión 28
+    name: Cazador de Zombies x8
     ask-message: <yellow>Mata <pink>8<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -522,7 +522,7 @@ quests:
       quest-points: 2
       exp: 400
   default33:
-    name: Misión 29
+    name: Pescador experto x10
     ask-message: <yellow>Pezca <pink>10<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -535,7 +535,7 @@ quests:
       quest-points: 3
       exp: 500
   default34:
-    name: Misión 30
+    name: Minería de Oak Log x3
     ask-message: <yellow>Rompe <pink>3<yellow> bloques de <pink>OAK_LOG<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -552,7 +552,7 @@ quests:
       quest-points: 1
       exp: 100
   default35:
-    name: Misión 31
+    name: Cazador de Spiders x4
     ask-message: <yellow>Mata <pink>4<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -568,7 +568,7 @@ quests:
       quest-points: 1
       exp: 200
   default36:
-    name: Misión 32
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -581,7 +581,7 @@ quests:
       quest-points: 2
       exp: 300
   default37:
-    name: Misión 33
+    name: Minería de Stone x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>STONE<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -598,7 +598,7 @@ quests:
       quest-points: 2
       exp: 400
   default38:
-    name: Misión 34
+    name: Cazador de Chickens x10
     ask-message: <yellow>Mata <pink>10<yellow> <pink>Chickens<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -614,7 +614,7 @@ quests:
       quest-points: 3
       exp: 500
   default39:
-    name: Misión 35
+    name: Pescador experto x2
     ask-message: <yellow>Pezca <pink>2<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -627,7 +627,7 @@ quests:
       quest-points: 1
       exp: 100
   default40:
-    name: Misión 36
+    name: Minería de Sand x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SAND<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -644,7 +644,7 @@ quests:
       quest-points: 1
       exp: 200
   default41:
-    name: Misión 37
+    name: Cazador de Creepers x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Creepers<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -660,7 +660,7 @@ quests:
       quest-points: 2
       exp: 300
   default42:
-    name: Misión 38
+    name: Pescador experto x8
     ask-message: <yellow>Pezca <pink>8<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -673,7 +673,7 @@ quests:
       quest-points: 2
       exp: 400
   default43:
-    name: Misión 39
+    name: Minería de Spruce Log x15
     ask-message: <yellow>Rompe <pink>15<yellow> bloques de <pink>SPRUCE_LOG<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -690,7 +690,7 @@ quests:
       quest-points: 3
       exp: 500
   default44:
-    name: Misión 40
+    name: Cazador de Cows x2
     ask-message: <yellow>Mata <pink>2<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -706,7 +706,7 @@ quests:
       quest-points: 1
       exp: 100
   default45:
-    name: Misión 41
+    name: Pescador experto x4
     ask-message: <yellow>Pezca <pink>4<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -719,7 +719,7 @@ quests:
       quest-points: 1
       exp: 200
   default46:
-    name: Misión 42
+    name: Minería de Coal Ore x9
     ask-message: <yellow>Rompe <pink>9<yellow> bloques de <pink>COAL_ORE<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -736,7 +736,7 @@ quests:
       quest-points: 2
       exp: 300
   default47:
-    name: Misión 43
+    name: Cazador de Skeletons x8
     ask-message: <yellow>Mata <pink>8<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -752,7 +752,7 @@ quests:
       quest-points: 2
       exp: 400
   default48:
-    name: Misión 44
+    name: Pescador experto x10
     ask-message: <yellow>Pezca <pink>10<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -765,7 +765,7 @@ quests:
       quest-points: 3
       exp: 500
   default49:
-    name: Misión 45
+    name: Minería de Gravel x3
     ask-message: <yellow>Rompe <pink>3<yellow> bloques de <pink>GRAVEL<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -782,7 +782,7 @@ quests:
       quest-points: 1
       exp: 100
   default50:
-    name: Misión 46
+    name: Cazador de Pigs x4
     ask-message: <yellow>Mata <pink>4<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -798,7 +798,7 @@ quests:
       quest-points: 1
       exp: 200
   default51:
-    name: Misión 47
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -811,7 +811,7 @@ quests:
       quest-points: 2
       exp: 300
   default52:
-    name: Misión 48
+    name: Minería de Dirt x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>DIRT<yellow>.
     finish-message: <yellow>¡Bien hecho! Aquí tienes tu recompensa.
     stages:
@@ -828,7 +828,7 @@ quests:
       quest-points: 2
       exp: 400
   default53:
-    name: Misión 49
+    name: Cazador de Zombies x10
     ask-message: <yellow>Mata <pink>10<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Impresionante! Aquí está tu recompensa.
     stages:
@@ -844,7 +844,7 @@ quests:
       quest-points: 3
       exp: 500
   default54:
-    name: Misión 50
+    name: Pescador experto x2
     ask-message: <yellow>Pezca <pink>2<yellow> peces.
     finish-message: <yellow>Buen trabajo pescando. Aquí tienes tu recompensa.
     stages:
@@ -857,7 +857,7 @@ quests:
       quest-points: 1
       exp: 100
   default55:
-    name: Misión 55
+    name: Minería de Gravel x2
     ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
       <pink>2<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -881,7 +881,7 @@ quests:
       quest-points: 2
       exp: 220
   default56:
-    name: Misión 56
+    name: Minería de Oak Log x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -898,7 +898,7 @@ quests:
       quest-points: 1
       exp: 240
   default57:
-    name: Misión 57
+    name: Cazador de Spiders x9
     ask-message: <yellow>Mata <pink>9<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -914,7 +914,7 @@ quests:
       quest-points: 2
       exp: 360
   default58:
-    name: Misión 58
+    name: Pescador experto x12
     ask-message: <yellow>Pezca <pink>12<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -927,7 +927,7 @@ quests:
       quest-points: 2
       exp: 480
   default59:
-    name: Misión 59
+    name: Minería de Deepslate x10
     ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
       y mata <pink>10<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -951,7 +951,7 @@ quests:
       quest-points: 4
       exp: 700
   default60:
-    name: Misión 60
+    name: Minería de Dirt x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -968,7 +968,7 @@ quests:
       quest-points: 1
       exp: 120
   default61:
-    name: Misión 61
+    name: Cazador de Slimes x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Slimes<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -984,7 +984,7 @@ quests:
       quest-points: 1
       exp: 240
   default62:
-    name: Misión 62
+    name: Pescador experto x9
     ask-message: <yellow>Pezca <pink>9<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -997,7 +997,7 @@ quests:
       quest-points: 2
       exp: 360
   default63:
-    name: Misión 63
+    name: Minería de Copper Ore x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
       y mata <pink>8<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1021,7 +1021,7 @@ quests:
       quest-points: 3
       exp: 580
   default64:
-    name: Misión 64
+    name: Minería de Sand x20
     ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1038,7 +1038,7 @@ quests:
       quest-points: 3
       exp: 600
   default65:
-    name: Misión 65
+    name: Cazador de Creepers x3
     ask-message: <yellow>Mata <pink>3<yellow> <pink>Creepers<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1054,7 +1054,7 @@ quests:
       quest-points: 1
       exp: 120
   default66:
-    name: Misión 66
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1067,7 +1067,7 @@ quests:
       quest-points: 1
       exp: 240
   default67:
-    name: Misión 67
+    name: Minería de Spruce Log x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
       y mata <pink>6<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1091,7 +1091,7 @@ quests:
       quest-points: 3
       exp: 460
   default68:
-    name: Misión 68
+    name: Minería de Iron Ore x16
     ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1108,7 +1108,7 @@ quests:
       quest-points: 2
       exp: 480
   default69:
-    name: Misión 69
+    name: Cazador de Chickens x15
     ask-message: <yellow>Mata <pink>15<yellow> <pink>Chickens<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1124,7 +1124,7 @@ quests:
       quest-points: 3
       exp: 600
   default70:
-    name: Misión 70
+    name: Pescador experto x3
     ask-message: <yellow>Pezca <pink>3<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1137,7 +1137,7 @@ quests:
       quest-points: 1
       exp: 120
   default71:
-    name: Misión 71
+    name: Minería de Stone x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
       <pink>4<yellow> <pink>Endermans<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1161,7 +1161,7 @@ quests:
       quest-points: 2
       exp: 340
   default72:
-    name: Misión 72
+    name: Minería de Coal Ore x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1178,7 +1178,7 @@ quests:
       quest-points: 2
       exp: 360
   default73:
-    name: Misión 73
+    name: Cazador de Skeletons x12
     ask-message: <yellow>Mata <pink>12<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1194,7 +1194,7 @@ quests:
       quest-points: 2
       exp: 480
   default74:
-    name: Misión 74
+    name: Pescador experto x15
     ask-message: <yellow>Pezca <pink>15<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1207,7 +1207,7 @@ quests:
       quest-points: 3
       exp: 600
   default75:
-    name: Misión 75
+    name: Minería de Gravel x2
     ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
       <pink>2<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1231,7 +1231,7 @@ quests:
       quest-points: 2
       exp: 220
   default76:
-    name: Misión 76
+    name: Minería de Oak Log x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1248,7 +1248,7 @@ quests:
       quest-points: 1
       exp: 240
   default77:
-    name: Misión 77
+    name: Cazador de Cows x9
     ask-message: <yellow>Mata <pink>9<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1264,7 +1264,7 @@ quests:
       quest-points: 2
       exp: 360
   default78:
-    name: Misión 78
+    name: Pescador experto x12
     ask-message: <yellow>Pezca <pink>12<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1277,7 +1277,7 @@ quests:
       quest-points: 2
       exp: 480
   default79:
-    name: Misión 79
+    name: Minería de Deepslate x10
     ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
       y mata <pink>10<yellow> <pink>Slimes<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1301,7 +1301,7 @@ quests:
       quest-points: 4
       exp: 700
   default80:
-    name: Misión 80
+    name: Minería de Dirt x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1318,7 +1318,7 @@ quests:
       quest-points: 1
       exp: 120
   default81:
-    name: Misión 81
+    name: Cazador de Zombies x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1334,7 +1334,7 @@ quests:
       quest-points: 1
       exp: 240
   default82:
-    name: Misión 82
+    name: Pescador experto x9
     ask-message: <yellow>Pezca <pink>9<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1347,7 +1347,7 @@ quests:
       quest-points: 2
       exp: 360
   default83:
-    name: Misión 83
+    name: Minería de Copper Ore x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
       y mata <pink>8<yellow> <pink>Creepers<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1371,7 +1371,7 @@ quests:
       quest-points: 3
       exp: 580
   default84:
-    name: Misión 84
+    name: Minería de Sand x20
     ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1388,7 +1388,7 @@ quests:
       quest-points: 3
       exp: 600
   default85:
-    name: Misión 85
+    name: Cazador de Pigs x3
     ask-message: <yellow>Mata <pink>3<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1404,7 +1404,7 @@ quests:
       quest-points: 1
       exp: 120
   default86:
-    name: Misión 86
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1417,7 +1417,7 @@ quests:
       quest-points: 1
       exp: 240
   default87:
-    name: Misión 87
+    name: Minería de Spruce Log x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
       y mata <pink>6<yellow> <pink>Chickens<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1441,7 +1441,7 @@ quests:
       quest-points: 3
       exp: 460
   default88:
-    name: Misión 88
+    name: Minería de Iron Ore x16
     ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1458,7 +1458,7 @@ quests:
       quest-points: 2
       exp: 480
   default89:
-    name: Misión 89
+    name: Cazador de Endermans x15
     ask-message: <yellow>Mata <pink>15<yellow> <pink>Endermans<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1474,7 +1474,7 @@ quests:
       quest-points: 3
       exp: 600
   default90:
-    name: Misión 90
+    name: Pescador experto x3
     ask-message: <yellow>Pezca <pink>3<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1487,7 +1487,7 @@ quests:
       quest-points: 1
       exp: 120
   default91:
-    name: Misión 91
+    name: Minería de Stone x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
       <pink>4<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1511,7 +1511,7 @@ quests:
       quest-points: 2
       exp: 340
   default92:
-    name: Misión 92
+    name: Minería de Coal Ore x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1528,7 +1528,7 @@ quests:
       quest-points: 2
       exp: 360
   default93:
-    name: Misión 93
+    name: Cazador de Spiders x12
     ask-message: <yellow>Mata <pink>12<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1544,7 +1544,7 @@ quests:
       quest-points: 2
       exp: 480
   default94:
-    name: Misión 94
+    name: Pescador experto x15
     ask-message: <yellow>Pezca <pink>15<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1557,7 +1557,7 @@ quests:
       quest-points: 3
       exp: 600
   default95:
-    name: Misión 95
+    name: Minería de Gravel x2
     ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
       <pink>2<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1581,7 +1581,7 @@ quests:
       quest-points: 2
       exp: 220
   default96:
-    name: Misión 96
+    name: Minería de Oak Log x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1598,7 +1598,7 @@ quests:
       quest-points: 1
       exp: 240
   default97:
-    name: Misión 97
+    name: Cazador de Slimes x9
     ask-message: <yellow>Mata <pink>9<yellow> <pink>Slimes<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1614,7 +1614,7 @@ quests:
       quest-points: 2
       exp: 360
   default98:
-    name: Misión 98
+    name: Pescador experto x12
     ask-message: <yellow>Pezca <pink>12<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1627,7 +1627,7 @@ quests:
       quest-points: 2
       exp: 480
   default99:
-    name: Misión 99
+    name: Minería de Deepslate x10
     ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
       y mata <pink>10<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1651,7 +1651,7 @@ quests:
       quest-points: 4
       exp: 700
   default100:
-    name: Misión 100
+    name: Minería de Dirt x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1668,7 +1668,7 @@ quests:
       quest-points: 1
       exp: 120
   default101:
-    name: Misión 101
+    name: Cazador de Creepers x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Creepers<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1684,7 +1684,7 @@ quests:
       quest-points: 1
       exp: 240
   default102:
-    name: Misión 102
+    name: Pescador experto x9
     ask-message: <yellow>Pezca <pink>9<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1697,7 +1697,7 @@ quests:
       quest-points: 2
       exp: 360
   default103:
-    name: Misión 103
+    name: Minería de Copper Ore x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
       y mata <pink>8<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1721,7 +1721,7 @@ quests:
       quest-points: 3
       exp: 580
   default104:
-    name: Misión 104
+    name: Minería de Sand x20
     ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1738,7 +1738,7 @@ quests:
       quest-points: 3
       exp: 600
   default105:
-    name: Misión 105
+    name: Cazador de Chickens x3
     ask-message: <yellow>Mata <pink>3<yellow> <pink>Chickens<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1754,7 +1754,7 @@ quests:
       quest-points: 1
       exp: 120
   default106:
-    name: Misión 106
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1767,7 +1767,7 @@ quests:
       quest-points: 1
       exp: 240
   default107:
-    name: Misión 107
+    name: Minería de Spruce Log x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
       y mata <pink>6<yellow> <pink>Endermans<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1791,7 +1791,7 @@ quests:
       quest-points: 3
       exp: 460
   default108:
-    name: Misión 108
+    name: Minería de Iron Ore x16
     ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1808,7 +1808,7 @@ quests:
       quest-points: 2
       exp: 480
   default109:
-    name: Misión 109
+    name: Cazador de Skeletons x15
     ask-message: <yellow>Mata <pink>15<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1824,7 +1824,7 @@ quests:
       quest-points: 3
       exp: 600
   default110:
-    name: Misión 110
+    name: Pescador experto x3
     ask-message: <yellow>Pezca <pink>3<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1837,7 +1837,7 @@ quests:
       quest-points: 1
       exp: 120
   default111:
-    name: Misión 111
+    name: Minería de Stone x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
       <pink>4<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1861,7 +1861,7 @@ quests:
       quest-points: 2
       exp: 340
   default112:
-    name: Misión 112
+    name: Minería de Coal Ore x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1878,7 +1878,7 @@ quests:
       quest-points: 2
       exp: 360
   default113:
-    name: Misión 113
+    name: Cazador de Cows x12
     ask-message: <yellow>Mata <pink>12<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1894,7 +1894,7 @@ quests:
       quest-points: 2
       exp: 480
   default114:
-    name: Misión 114
+    name: Pescador experto x15
     ask-message: <yellow>Pezca <pink>15<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1907,7 +1907,7 @@ quests:
       quest-points: 3
       exp: 600
   default115:
-    name: Misión 115
+    name: Minería de Gravel x2
     ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
       <pink>2<yellow> <pink>Slimes<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -1931,7 +1931,7 @@ quests:
       quest-points: 2
       exp: 220
   default116:
-    name: Misión 116
+    name: Minería de Oak Log x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -1948,7 +1948,7 @@ quests:
       quest-points: 1
       exp: 240
   default117:
-    name: Misión 117
+    name: Cazador de Zombies x9
     ask-message: <yellow>Mata <pink>9<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -1964,7 +1964,7 @@ quests:
       quest-points: 2
       exp: 360
   default118:
-    name: Misión 118
+    name: Pescador experto x12
     ask-message: <yellow>Pezca <pink>12<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -1977,7 +1977,7 @@ quests:
       quest-points: 2
       exp: 480
   default119:
-    name: Misión 119
+    name: Minería de Deepslate x10
     ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
       y mata <pink>10<yellow> <pink>Creepers<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2001,7 +2001,7 @@ quests:
       quest-points: 4
       exp: 700
   default120:
-    name: Misión 120
+    name: Minería de Dirt x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2018,7 +2018,7 @@ quests:
       quest-points: 1
       exp: 120
   default121:
-    name: Misión 121
+    name: Cazador de Pigs x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2034,7 +2034,7 @@ quests:
       quest-points: 1
       exp: 240
   default122:
-    name: Misión 122
+    name: Pescador experto x9
     ask-message: <yellow>Pezca <pink>9<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2047,7 +2047,7 @@ quests:
       quest-points: 2
       exp: 360
   default123:
-    name: Misión 123
+    name: Minería de Copper Ore x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
       y mata <pink>8<yellow> <pink>Chickens<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2071,7 +2071,7 @@ quests:
       quest-points: 3
       exp: 580
   default124:
-    name: Misión 124
+    name: Minería de Sand x20
     ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2088,7 +2088,7 @@ quests:
       quest-points: 3
       exp: 600
   default125:
-    name: Misión 125
+    name: Cazador de Endermans x3
     ask-message: <yellow>Mata <pink>3<yellow> <pink>Endermans<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2104,7 +2104,7 @@ quests:
       quest-points: 1
       exp: 120
   default126:
-    name: Misión 126
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2117,7 +2117,7 @@ quests:
       quest-points: 1
       exp: 240
   default127:
-    name: Misión 127
+    name: Minería de Spruce Log x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
       y mata <pink>6<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2141,7 +2141,7 @@ quests:
       quest-points: 3
       exp: 460
   default128:
-    name: Misión 128
+    name: Minería de Iron Ore x16
     ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2158,7 +2158,7 @@ quests:
       quest-points: 2
       exp: 480
   default129:
-    name: Misión 129
+    name: Cazador de Spiders x15
     ask-message: <yellow>Mata <pink>15<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2174,7 +2174,7 @@ quests:
       quest-points: 3
       exp: 600
   default130:
-    name: Misión 130
+    name: Pescador experto x3
     ask-message: <yellow>Pezca <pink>3<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2187,7 +2187,7 @@ quests:
       quest-points: 1
       exp: 120
   default131:
-    name: Misión 131
+    name: Minería de Stone x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
       <pink>4<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2211,7 +2211,7 @@ quests:
       quest-points: 2
       exp: 340
   default132:
-    name: Misión 132
+    name: Minería de Coal Ore x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2228,7 +2228,7 @@ quests:
       quest-points: 2
       exp: 360
   default133:
-    name: Misión 133
+    name: Cazador de Slimes x12
     ask-message: <yellow>Mata <pink>12<yellow> <pink>Slimes<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2244,7 +2244,7 @@ quests:
       quest-points: 2
       exp: 480
   default134:
-    name: Misión 134
+    name: Pescador experto x15
     ask-message: <yellow>Pezca <pink>15<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2257,7 +2257,7 @@ quests:
       quest-points: 3
       exp: 600
   default135:
-    name: Misión 135
+    name: Minería de Gravel x2
     ask-message: <yellow>Rompe <pink>2<yellow> bloques de <pink>GRAVEL<yellow> y mata
       <pink>2<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2281,7 +2281,7 @@ quests:
       quest-points: 2
       exp: 220
   default136:
-    name: Misión 136
+    name: Minería de Oak Log x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>OAK_LOG<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2298,7 +2298,7 @@ quests:
       quest-points: 1
       exp: 240
   default137:
-    name: Misión 137
+    name: Cazador de Creepers x9
     ask-message: <yellow>Mata <pink>9<yellow> <pink>Creepers<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2314,7 +2314,7 @@ quests:
       quest-points: 2
       exp: 360
   default138:
-    name: Misión 138
+    name: Pescador experto x12
     ask-message: <yellow>Pezca <pink>12<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2327,7 +2327,7 @@ quests:
       quest-points: 2
       exp: 480
   default139:
-    name: Misión 139
+    name: Minería de Deepslate x10
     ask-message: <yellow>Rompe <pink>10<yellow> bloques de <pink>DEEPSLATE<yellow>
       y mata <pink>10<yellow> <pink>Pigs<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2351,7 +2351,7 @@ quests:
       quest-points: 4
       exp: 700
   default140:
-    name: Misión 140
+    name: Minería de Dirt x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>DIRT<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2368,7 +2368,7 @@ quests:
       quest-points: 1
       exp: 120
   default141:
-    name: Misión 141
+    name: Cazador de Chickens x6
     ask-message: <yellow>Mata <pink>6<yellow> <pink>Chickens<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2384,7 +2384,7 @@ quests:
       quest-points: 1
       exp: 240
   default142:
-    name: Misión 142
+    name: Pescador experto x9
     ask-message: <yellow>Pezca <pink>9<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2397,7 +2397,7 @@ quests:
       quest-points: 2
       exp: 360
   default143:
-    name: Misión 143
+    name: Minería de Copper Ore x8
     ask-message: <yellow>Rompe <pink>8<yellow> bloques de <pink>COPPER_ORE<yellow>
       y mata <pink>8<yellow> <pink>Endermans<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2421,7 +2421,7 @@ quests:
       quest-points: 3
       exp: 580
   default144:
-    name: Misión 144
+    name: Minería de Sand x20
     ask-message: <yellow>Rompe <pink>20<yellow> bloques de <pink>SAND<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2438,7 +2438,7 @@ quests:
       quest-points: 3
       exp: 600
   default145:
-    name: Misión 145
+    name: Cazador de Skeletons x3
     ask-message: <yellow>Mata <pink>3<yellow> <pink>Skeletons<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2454,7 +2454,7 @@ quests:
       quest-points: 1
       exp: 120
   default146:
-    name: Misión 146
+    name: Pescador experto x6
     ask-message: <yellow>Pezca <pink>6<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2467,7 +2467,7 @@ quests:
       quest-points: 1
       exp: 240
   default147:
-    name: Misión 147
+    name: Minería de Spruce Log x6
     ask-message: <yellow>Rompe <pink>6<yellow> bloques de <pink>SPRUCE_LOG<yellow>
       y mata <pink>6<yellow> <pink>Spiders<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2491,7 +2491,7 @@ quests:
       quest-points: 3
       exp: 460
   default148:
-    name: Misión 148
+    name: Minería de Iron Ore x16
     ask-message: <yellow>Rompe <pink>16<yellow> bloques de <pink>IRON_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2508,7 +2508,7 @@ quests:
       quest-points: 2
       exp: 480
   default149:
-    name: Misión 149
+    name: Cazador de Cows x15
     ask-message: <yellow>Mata <pink>15<yellow> <pink>Cows<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2524,7 +2524,7 @@ quests:
       quest-points: 3
       exp: 600
   default150:
-    name: Misión 150
+    name: Pescador experto x3
     ask-message: <yellow>Pezca <pink>3<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2537,7 +2537,7 @@ quests:
       quest-points: 1
       exp: 120
   default151:
-    name: Misión 151
+    name: Minería de Stone x4
     ask-message: <yellow>Rompe <pink>4<yellow> bloques de <pink>STONE<yellow> y mata
       <pink>4<yellow> <pink>Slimes<yellow>.
     finish-message: <yellow>¡Increíble hazaña! Has ganado una gran recompensa.
@@ -2561,7 +2561,7 @@ quests:
       quest-points: 2
       exp: 340
   default152:
-    name: Misión 152
+    name: Minería de Coal Ore x12
     ask-message: <yellow>Rompe <pink>12<yellow> bloques de <pink>COAL_ORE<yellow>.
     finish-message: <yellow>¡Buen trabajo! Recibe tu recompensa.
     stages:
@@ -2578,7 +2578,7 @@ quests:
       quest-points: 2
       exp: 360
   default153:
-    name: Misión 153
+    name: Cazador de Zombies x12
     ask-message: <yellow>Mata <pink>12<yellow> <pink>Zombies<yellow>.
     finish-message: <yellow>¡Has demostrado tu fuerza! Recompensa obtenida.
     stages:
@@ -2594,7 +2594,7 @@ quests:
       quest-points: 2
       exp: 480
   default154:
-    name: Misión 154
+    name: Pescador experto x15
     ask-message: <yellow>Pezca <pink>15<yellow> peces.
     finish-message: <yellow>¡Eres un gran pescador! Aquí tienes tu recompensa.
     stages:
@@ -2606,3 +2606,4 @@ quests:
       money: 3000
       quest-points: 3
       exp: 600
+
