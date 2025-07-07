@@ -1509,3 +1509,25 @@ java.lang.NullPointerException: Cannot invoke "com.gmail.picono435.picojobs.libs
 [19:59:14] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
 [19:59:14] [Server thread/INFO]: Admin loviroxget joined the game
 [19:59:14] [Server thread/INFO]: loviroxget[/127.23.96.213:50929] logged in with entity id 758 at ([Spawn]-7.669456529591379, 84.0, 23.1242888545184)
+[20:01:29] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[20:01:30] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[20:01:31] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[20:01:32] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[20:01:33] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[20:01:34] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[20:01:35] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[20:01:36] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[20:01:37] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[20:01:38] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[20:01:39] [Server thread/INFO]: [AntiLag] > Removing...
+[20:09:49] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[20:09:50] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[20:09:51] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[20:09:52] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[20:09:53] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[20:09:54] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[20:09:55] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[20:09:56] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[20:09:57] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[20:09:58] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[20:09:59] [Server thread/INFO]: [AntiLag] > Removing...
