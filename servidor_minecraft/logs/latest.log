@@ -1378,3 +1378,134 @@ java.lang.NullPointerException: Cannot invoke "com.gmail.picono435.picojobs.libs
 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
 	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:53:09] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 10 seconds
+[19:53:10] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 9 seconds
+[19:53:11] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 8 seconds
+[19:53:12] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 7 seconds
+[19:53:13] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 6 seconds
+[19:53:14] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 5 seconds
+[19:53:15] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 4 seconds
+[19:53:16] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 3 seconds
+[19:53:17] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 2 seconds
+[19:53:18] [Server thread/INFO]: [AntiLag] > All dropped items will be removed in 1 seconds
+[19:53:19] [Server thread/INFO]: [AntiLag] > Removing...
+[19:54:00] [Server thread/INFO]: loviroxget issued server command: /quests list
+[19:54:00] [Server thread/ERROR]: Could not pass event PlayerCommandPreprocessEvent to PicoJobs v1.0-pre-1
+java.lang.NullPointerException: Cannot invoke "com.gmail.picono435.picojobs.libs.org.spongepowered.configurate.CommentedConfigurationNode.node(Object[])" because the return value of "com.gmail.picono435.picojobs.common.file.FileManager.getLanguageNode()" is null
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.api.managers.LanguageManager.getCommandAliases(LanguageManager.java:117) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.common.listeners.AliasesListener.onCommand(AliasesListener.java:19) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.bukkit.listeners.BukkitAliasesListener.onCommand(BukkitAliasesListener.java:14) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:54:38] [Server thread/INFO]: loviroxget issued server command: /spawn
+[19:54:38] [Server thread/ERROR]: Could not pass event PlayerCommandPreprocessEvent to PicoJobs v1.0-pre-1
+java.lang.NullPointerException: Cannot invoke "com.gmail.picono435.picojobs.libs.org.spongepowered.configurate.CommentedConfigurationNode.node(Object[])" because the return value of "com.gmail.picono435.picojobs.common.file.FileManager.getLanguageNode()" is null
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.api.managers.LanguageManager.getCommandAliases(LanguageManager.java:117) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.common.listeners.AliasesListener.onCommand(AliasesListener.java:19) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.bukkit.listeners.BukkitAliasesListener.onCommand(BukkitAliasesListener.java:14) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:54:49] [Server thread/INFO]: loviroxget issued server command: /warps pvp
+[19:54:49] [Server thread/ERROR]: Could not pass event PlayerCommandPreprocessEvent to PicoJobs v1.0-pre-1
+java.lang.NullPointerException: Cannot invoke "com.gmail.picono435.picojobs.libs.org.spongepowered.configurate.CommentedConfigurationNode.node(Object[])" because the return value of "com.gmail.picono435.picojobs.common.file.FileManager.getLanguageNode()" is null
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.api.managers.LanguageManager.getCommandAliases(LanguageManager.java:117) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.common.listeners.AliasesListener.onCommand(AliasesListener.java:19) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.bukkit.listeners.BukkitAliasesListener.onCommand(BukkitAliasesListener.java:14) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:57:18] [Server thread/INFO]: loviroxget issued server command: /spawn
+[19:57:18] [Server thread/ERROR]: Could not pass event PlayerCommandPreprocessEvent to PicoJobs v1.0-pre-1
+java.lang.NullPointerException: Cannot invoke "com.gmail.picono435.picojobs.libs.org.spongepowered.configurate.CommentedConfigurationNode.node(Object[])" because the return value of "com.gmail.picono435.picojobs.common.file.FileManager.getLanguageNode()" is null
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.api.managers.LanguageManager.getCommandAliases(LanguageManager.java:117) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.common.listeners.AliasesListener.onCommand(AliasesListener.java:19) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at PicoJobs-1.0-pre-1-bukkit.jar/com.gmail.picono435.picojobs.bukkit.listeners.BukkitAliasesListener.onCommand(BukkitAliasesListener.java:14) ~[PicoJobs-1.0-pre-1-bukkit.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:628) ~[paper-api-1.21.4-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2201) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2188) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:155) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1448) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:176) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:129) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1428) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1422) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:139) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1379) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1387) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1264) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:310) ~[paper-1.21.4.jar:1.21.4-231-09e9afd]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[19:58:35] [Server thread/INFO]: loviroxget lost connection: Disconnected
+[19:58:35] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Invalid Bot Token!
+[19:58:35] [Server thread/WARN]: Nag author(s): '[]' of 'Statusbot v20.0' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[19:58:35] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
+[19:58:35] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
+[19:58:35] [Server thread/INFO]: Admin loviroxget left the game
+[19:59:13] [User Authenticator #2/INFO]: UUID of player loviroxget is 457f9b14-6159-3fed-bd7e-ff99c713c2f2
+[19:59:14] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Invalid Bot Token!
+[19:59:14] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: Get the token of your discord bot from here: https://discord.com/developers/applications
+[19:59:14] [Server thread/INFO]: [Statusbot] [STDOUT] Statusbot: After that put the token in the config file at: /workspaces/Iasfecraft/servidor_minecraft/plugins/Statusbot/statusbot_config.yml
+[19:59:14] [Server thread/INFO]: Admin loviroxget joined the game
+[19:59:14] [Server thread/INFO]: loviroxget[/127.23.96.213:50929] logged in with entity id 758 at ([Spawn]-7.669456529591379, 84.0, 23.1242888545184)
